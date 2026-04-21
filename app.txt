@@ -1,1 +1,1 @@
-Register V1
+Register UI V2
